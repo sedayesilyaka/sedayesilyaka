@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sedayesilyaka
+- 👋 Hi, I’m @sedayesilyaka from Turkey
 - 👀 I’m interested in recommender system
 
 
