@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sedayesilyaka from Turkey
-- 👀 I’m interested in recommender system
+- 👀 I’m interested in python, recommendation systems, ML and deep learning.
 
 
 
